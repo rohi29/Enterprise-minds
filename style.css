@@ -1,0 +1,29 @@
+.col1{
+    margin-top: 28px;
+    background-color: bisque;
+}
+.image{
+    margin: 10px 10px;
+    width: 152px;
+    height: 170px;
+    margin-left: 25%;
+    border: solid black;
+     border-radius: 700px;
+}
+
+.col2{
+    background-color: rgb(238, 241, 245);
+}
+
+.row1{
+    margin: 10px;
+}
+.icon1{
+    margin-left: 15px;
+   
+}
+
+.skill1{
+    background-color: cyan;
+    margin-left: 10px;
+}
